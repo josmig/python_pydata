@@ -10,7 +10,6 @@ message = 'Hola, Miguel'
 print(message)
 
 text_multi_line = """
-Esta es una 
 cadena de varias
 lineas
 en Python

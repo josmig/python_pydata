@@ -21,3 +21,4 @@ strSuma=str(sumaa)
 resultado = 'El resultado es ' +strSuma
 
 print(resultado,type(resultado))
+
